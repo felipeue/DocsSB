@@ -1,0 +1,137 @@
+\chapter{Listado de requisitos}
+
+% Dar una descripción del listado de requisitos a mostrar
+
+A continuación se presenta la especificación de requisitos de la solución . Éstos se mostrarán en dos secciones separando los requisitos funcionales de los no funcionales.
+\section{Requisitos funcionales}
+
+Las funcionalidades que presenta la solución son presentados a continuación en la tabla \ref{table:requisitos_funcionales}.
+
+% Tabla de requisitos funcionales
+\begin{center}
+\begin{longtable}{|l|p{0.2\linewidth}|p{0.3\linewidth}|c|c|}
+\caption[Requisitos funcionales]{Requisitos funcionales} \label{table:requisitos_funcionales} \\
+\hline 
+\multicolumn{1}{|c|}{\textbf{ID}} & 
+\multicolumn{1}{c|}{\textbf{Nombre}} & 
+\multicolumn{1}{c|}{\textbf{Descripción}} &
+\multicolumn{1}{c|}{\textbf{Prioridad}} &
+\multicolumn{1}{c|}{\textbf{Categoría}}
+\\ \hline 
+\endfirsthead
+\multicolumn{5}{c}%
+{{\bfseries \tablename\ \thetable{} -- continuación página anterior.}} \\
+\hline 
+\multicolumn{1}{|c|}{\textbf{ID}} &
+\multicolumn{1}{c|}{\textbf{Nombre}} &
+\multicolumn{1}{c|}{\textbf{Descripción}} &
+\multicolumn{1}{c|}{\textbf{Prioridad}} &
+\multicolumn{1}{c|}{\textbf{Categoría}}
+\\ \hline 
+\endhead
+
+\hline \multicolumn{4}{|r|}{{Continua en la siguiente página}} \\ \hline
+\endfoot
+
+\hline \hline
+\endlastfoot
+
+RF01 & Ingresar a la plataforma & Los usuarios ingresan a plataforma utilizando su rut y una contraseña. & Alta & Evidente\\
+\hline
+RF02 & Ingresar a panel administrativo & Los usuarios ingresan a panel administrativo utilizando su rut y una contraseña    & Alta & Evidente\\
+\hline
+RF03 & Registrar conserje & El encargado registra un conserje. & Alta & Evidente\\
+\hline
+RF03 & Ingreso a la plataforma para conserjes & Los conserjes ingresan a plataforma utilizando su rut y una contraseña & Alta & Evidente\\
+\hline
+RF04 & Modificar conserje & El encargado puede modificar los datos ingresados en RF03 & Media & Evidente\\ 
+\hline
+RF05 & Eliminar conserje & El encargado puede eliminar los registros ingresados en RF03 & Media & Evidente\\ 
+\hline
+RF06 & Evaluar IG & El contador aprueba o rechaza la veracidad de la Información de Gasto & Alta & Evidente\\ 
+\hline
+RF07 & Home encargado & Tras ingresar a la plataforma, el encargado puede ver los gastos enviados que fueron rechazados & Media & Evidente\\ 
+\hline
+RF08 & Generar plantilla excel & El software proporciona una plantilla excel cuando el contador se lo solicita & Alta & Evidente\\ 
+\hline
+RF09 & Habilitar vista gerencia & El contador habilita la vista a Gerencia de los gastos mensuales & Baja & Evidente\\ 
+\hline
+RF10 & Home gerencia & Tras ingresar a la plataforma, el jefe puede seleccionar entre ver la vista habilitada por el contador o buscar en el registro de IG ya sea por, proveedor, mes o año. & Baja & Evidente\\ 
+\hline
+RF11 & Mantener historial de gastos & El Sistema hará un registro desde la primera plantilla generada & Baja & Oculta\\ 
+\hline
+RF12 & Descargar plantilla excel & El sistema permitirá descargar la plantilla excel, utilizando por columnas los campos descritos en RF02  & Alta & Evidente\\ 
+\hline
+RF14 & Registro en plantilla & El sistema selecciona los gastos aprobados por el contador para incluirlos en la plantilla excel que se generará & Alta & Oculta\\ 
+\hline
+RF15 & Notificación & El sistema ofrece una señal de que hay datos sin revisar dependiendo del usuario que esté logueado & Baja & Evidente\\ 
+\hline
+RF16 & Gestión de proveedores & El sistema permitirá al encargado gestionar (crear, editar y borrar) proveedores (rut, nombre y razón social) & Media & Evidente\\ 
+\hline
+RF17 & Nuevos usuarios & El contador podrá crear y eliminar nuevos usuarios de tipo encargado, contador y gerencia. & Baja & Evidente
+
+\end{longtable}
+\end{center}
+
+% Explicación de requisitos que requieran mas información de la mostrada en la lista.
+
+\newpage
+\section{Requisitos no funcionales}
+Las características que presenta la solución son presentados a continuación en la tabla \ref{table:requisitos_no_funcionales}.
+
+% Tabla de requisitos no funcionales
+\begin{center}
+\begin{longtable}{
+|p{0.05\linewidth}
+|p{0.2\linewidth}
+|p{0.3\linewidth}
+|p{0.1\linewidth}
+|p{0.15\linewidth}
+|p{0.15\linewidth}|}
+\caption[Requisitos no funcionales]{Requisitos no funcionales} \label{table:requisitos_no_funcionales} \\
+
+\hline 
+\multicolumn{1}{|c|}{\textbf{ID}} & 
+\multicolumn{1}{c|}{\textbf{Nombre}} & 
+\multicolumn{1}{c|}{\textbf{Descripción}} &
+\multicolumn{1}{c|}{\textbf{Prioridad}} &
+\multicolumn{1}{c|}{\textbf{Categoria}} &
+\multicolumn{1}{c|}{\textbf{Sub-Categoria}} 
+\\ \hline 
+\endfirsthead
+
+\multicolumn{6}{c}%
+{{\bfseries \tablename\ \thetable{} -- continuación pagina anterior.}} \\
+\hline 
+\multicolumn{1}{|c|}{\textbf{ID}} &
+\multicolumn{1}{c|}{\textbf{Nombre}} &
+\multicolumn{1}{c|}{\textbf{Descripción}} &
+\multicolumn{1}{c|}{\textbf{Prioridad}} &
+\multicolumn{1}{c|}{\textbf{Categoria}} &
+\multicolumn{1}{c|}{\textbf{Sub-Categoria}} 
+\\ \hline 
+\endhead
+
+\hline \multicolumn{6}{|r|}{{Continua en la siguiente pagina}} \\ \hline
+\endfoot
+
+\hline \hline
+\endlastfoot
+
+RNF01 & Interfaz comprensible & El uso de la interfaz del sistema tiene que ser evidente para el usuario. & Alta & Usabilidad & Comprensibilidad \\ 
+\hline
+RNF02 & Multiplataforma & Es necesario que la plataforma se adecue a cualquier navegador web. & Alta & Portabilidad & Adaptabilidad \\ 
+\hline
+RNF03 & Fiabilidad de sistema & Es importante que los datos del sistema esten siempre respaldados. & Alta & Fiabilidad & Recuperabilidad \\ 
+\hline
+RNF04 & Interfaz minimalista & La interfaz tiene que presentar solo lo escencial, sin que esto le quite operabilidad al usuario. & Media & Usabilidad & Atractividad \\ 
+\hline
+RNF05 & Tiempo de envío & El envío de la información e imágen se realiza en menos de 30 segundos & Alta & Eficiencia & Comportamiento \\ 
+\hline
+RNF06 & Pocos clicks & Cada usuario completará sus objetivos con la menor cantidad de clicks posibles & Media & Usabilidad & Aprendibilidad \\ 
+\hline
+
+\end{longtable}
+\end{center}
+
+% Explicación de requisitos que requieran mas información de la mostrada en la lista.

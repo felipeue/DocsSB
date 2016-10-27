@@ -1,0 +1,60 @@
+\chapter{Aplicabilidad en ataques sintácticos}
+\label{chap:sintact}
+Los ataques sintácticos son aquellos ataques contra la lógica operativa de los computadores y las redes\footnote{Una red informática es un conjunto de dispositivos interconectados entre sí a través de un medio, que intercambian información y comparten recursos.}, que quieren explotar vulnerabilidades existentes en el software, algoritmos de cifrado\footnote{El algoritmo de cifrado su objetivo es que un mensaje sea incomprensible o difícil de comprender a toda persona que no tenga la clave secreta (clave de descifrado) del algoritmo.} y en protocolos. Aunque no existen soluciones globales para contrarrestar de forma eficiente estos ataques, podemos encontrar soluciones cada vez más eficaces. A continuación se mostrará que ataques que tienen el mismo objetivo buscar las vulnerabilidades existentes en distintas categorías y cómo son pasadas a llevar por la ley Nº19223.
+
+\section{Malware infeccioso: virus y gusanos}
+El \textit{Malware} (del inglés \textit{malicious software}) tiene como objetivo principal infiltrarse o dañar un sistema de información sin algún previo conocimiento del usuario para obtener beneficios de éste o simplemente causar molestias.
+
+Los tipos de \textit{Malware} más conocidos son los virus y gusanos. Su diferencia está en el comportamiento. En el caso del virus, se usa para designar un programa que en el momento de ejecutarse éste se propague infectando otros ejecutables dentro de la misma computadora. En cambio los gusanos su objetivo es infectar a la mayor cantidad posible de usuarios, y también puede contener instrucciones dañinas al igual que los virus.
+
+\subsubsection{Malware infeccioso en la Ley Nº19223}
+Para este caso dependiendo la configuración del \textit{Malware} infeccioso depende como actuaria la Ley Nº19223. En el caso de que el virus o gusano altere, dañe o destruya los datos contenidos en el sistema se aplicaría el artículo 3º. También puede ser aplicado el artículo 1º de la misma ley, lo por consiguiente se podría aumentar la pena señalada anteriormente.
+
+\section{Malware oculto}
+Para que un software malicioso pueda completar sus objetivos, es esencial que se oculte en el usuario. El ocultamiento también puede ayudar a que el \textit{Malware} se instale por primera vez en la computadora. A continuación se muestran algunos tipos de software malicioso oculto.
+
+\subsection{Puertas traseras o Backdoors}
+Es una secuencia especial dentro del código de programación, mediante la cual se pueden evitar los sistemas de seguridad de autenticación para ingresar a un sistema de información (computador). También puede instalarse previamente al software malicioso para permitir la entrada de los atacantes.
+
+\subsection{Drive-by Downloads}
+Son sitios que al momento de generar una descarga instalan \textit{spyware} \footnote{Es un software que recopila información de un ordenador} o códigos que dan información de los equipos sin que el usuario se percate, lo cual ocurre al visitar un sitio web, al revisar un mensaje de correo electrónico.
+
+\subsection{Rootkits}
+Es un software que permite un acceso de privilegio continuo a una computadora pero que mantiene su presencia activamente oculta al control de los administradores al corromper el funcionamiento del sistema operativo\footnote{Es el software básico de una computadora que provee una interfaz entre el resto de programas del ordenador, los dispositivos hardware y el usuario.} o de otras aplicaciones. Evita que un proceso malicioso sea visible en la lista de procesos del sistema.
+
+\subsection{Troyanos}
+Es un software malicioso que se presenta al usuario como un programa aparentemente legítimo e inofensivo pero al ejecutarlo de él, controla el computador sin ser advertido, normalmente bajo una apariencia inocua.
+
+\subsubsection{Malware oculto en la Ley Nº19223}
+En general los \textit{Malware} ocultos tratan de apoderarse del sistema o usar indebidamente la información del mismo, lo anterior concuerda con el artículo 2º de la ley Nº19223 es donde él atacante recibiría si es demostrado culpable un presidio menor en su grado mínimo a medio, es decir una pena que va desde 61 días a 540 días y que en su tramo mínimo va desde 61 días a 301 días y en su tramo máximo va desde 302 días 540 días.
+
+\section{Malware para obtener beneficios}
+Como su nombre lo describiré el principal objetivo del \textit{Malware} es obtener beneficios económicos o de algún sentido tras la creación de esté, ya que en la actualidad la divulgación de la privacidad en algunos sentidos es bien pagada monetariamente o la venta de información de archivos de empresas competidoras.
+
+\subsection{Mostrar publicidad: Spyware, Adware y Hijacking}
+\subsubsection{Spyware} Su función recopilar información sobre las actividades realizadas por un usuario y distribuirla a agencias de publicidad u otras organizaciones interesadas para de esta manera sacar perfiles de usuarios y saber en donde apuntar sus mercados. Algunos datos que recogen son las páginas web que visita el usuario y direcciones de e-mail, a las que después se envía \textit{spam}. La mayoría de los programas de \textit{spyware} son instalados como troyanos junto a software deseable bajado de internet. Los autores de \textit{spyware} que intentan actuar de manera legal se presentan abiertamente como empresas de publicidad e incluyen unos términos de uso, en los que se explica de forma imprecisa el comportamiento del \textit{spyware}, que los usuarios aceptan sin leer o sin entender.
+
+\subsubsection{Adware} Creado para mostrar publicidad al usuario de manera intrusiva en forma de ventanas pop-up o de cualquier otra forma. Esta publicidad aparece inesperadamente en el equipo y resulta muy molesta. Algunos programas \textit{shareware} (distribución de software en la que el usuario puede evaluar de forma gratuita el producto, pero con limitaciones en el tiempo de uso o en alguna de las formas de uso o con restricciones en las capacidades finales) permiten usar el programa de forma gratuita a cambio de mostrar publicidad, en este caso el usuario consiente la publicidad al instalar el programa. El \textit{adware} no parece malicioso, pero muchas veces los términos de uso no son transparentes y ocultan lo que el programa hace realmente.
+
+\subsubsection{Hijackers} Son programas que realizan cambios en la configuración del navegador web, como cambiar la página de inicio por páginas de publicidad o pornográficas, o redireccionar los resultados de los buscadores hacia otros anuncios.
+
+\subsection{Robar información personal: Keyloggers y Stealers}
+\subsubsection{Keyloggers} Son programas que cumplen el objetivo de robar información, para lo cual monitorizan todas las pulsaciones del teclado y las almacenan para un posterior envío al atacante.
+
+\subsubsection{Stealers} Tienen una manera de actuar distinta al caso anterior. Los \textit{stealers} roban la información privada que se encuentra guardada en el equipo. Al ejecutarse, comprueban los programas instalados en el equipo y si tienen contraseñas recordadas (por ejemplo en navegadores web\footnote{Un software que permite el acceso a Internet, interpretando la información de distintos tipos de archivos y sitios}) descifran esa información y la envían al atacante.
+
+\subsection{Realizar llamadas telefónicas: Dialers}
+Los \textit{Dialers} generan una toma el control del módem \textit{dial-up}\footnote{Es una forma de acceso a Internet que utiliza las instalaciones de la red telefónica pública conmutada, es decir la suma de todo el mundo por conmutación de circuitos redes telefónicas y cuyo titular sea nacional, regional o local de telefonía operadores}, realizan una llamada a un número de teléfono de tarificación especial (muchas veces internacional) y dejan la línea abierta, cargando el coste de la llamada al usuario. Actualmente la mayoría de las conexiones a internet son mediante \textit{ADSL}\footnote{\textit{ADSL} es una tecnología de acceso a Internet de banda ancha, lo que implica una velocidad superior a una conexión por módem en la transferencia de datos} y no mediante módem, por lo que los \textit{dialers} ya no son tan populares.
+
+\subsection{Ataques distribuidos: Botnets}
+Los \textit{Botnets} son redes de ordenadores infectados que pueden ser controladas a la vez por un individuo y realizan distintas tareas. Estas redes se envían para el envío masivo de \textit{spam} o para lanzar ataques \textit{DDoS} contra organizaciones como forma de extorsión o para impedir su funcionamiento. Mediante estas redes los \textit{spammers} se mantienen en el anonimato, lo que les protege de la persecución policial. Las \textit{botnets} también se pueden usar para actualizar el \textit{Malware} en los sistemas infectados, manteniéndolo así resistente a antivirus u otras medidas de seguridad.
+
+\subsection{Otros tipos: Rogue software y Ransomware}
+\textit{Rogue}, software que hace creer al usuario que el ordenador está infectado por algún software malicioso, lo que induce al usuario a pagar por un software inútil o a instalar un software malicioso que supuestamente elimina las infecciones, pero que no necesita ya que no está infectado, es solamente un aprovechamiento de la poca información que posee el usuario.
+
+\textit{Ransomware} cifra los archivos importantes para el usuario, haciéndolos inaccesibles. Después piden que se pague un "rescate" para poder recibir la contraseña que permite recuperar dichos archivos. También se les denomina criptovirus o secuestradores.
+
+\subsubsection{Malware para obtener beneficios en la Ley Nº19223}
+Como el fin de los \textit{Malware} para obtener beneficios es tener una recompensación monetaria generalmente claramente estos a veces revelan o difunden información del sistema infectado para cumplir dicho objetivo, para estos delitos el ultimo artículo él Nº4 de la ley Nº19223 concuerda con lo anterior, por consecuencia se aplicaras la pena de presidio menor en su grado medio y si esté además es el responsable del sistema de información, la pena aumentará en un grado.
+
+También se aplica al caso el artículo 2º de la misma ley, ya que para el caso de \textit{keyloggers} por ejemplo, al introducir un número de tarjeta de crédito el \textit{keylogger} guarda el número, posteriormente lo envía al autor y éste puede hacer pagos fraudulentos con esa tarjeta. Si las contraseñas se encuentran guardadas en el equipo el \textit{keylogger} no las recoge, ya que el usuario no tendría que escribirlas. Los \textit{keyloggers} habitualmente son usados para recopilar contraseñas y otros datos, pero también se pueden usar para espiar conversaciones de \textit{chat} u otros fines y como se tiene el ánimo de conocer indebidamente la información contenida en el sistema como las conversaciones o las contraseñas es aplicable el artículo 2º.

@@ -1,0 +1,44 @@
+\documentclass[10pt]{udpreport}
+% set images path and accepted formats
+\graphicspath{{img/}}
+\DeclareGraphicsExtensions{.pdf,.png}
+\usepackage{cite}
+\usepackage{alltt}
+\usepackage{titlesec}
+
+\author {
+    Felipe Ríos      
+}
+
+\title{ Plataforma Web de control y gestión inmobiliaria orientada a usuarios }
+
+\begin{document}
+
+\maketitle
+
+\include{abstract}
+
+\frontmatter
+    \tableofcontents
+%    \listoftables
+%    \listoffigures
+    
+\mainmatter
+    \include{introduction}
+    \include{problem}
+    \include{goals}
+    \include{requeriment}
+    \include{Conclusion}
+%    \include{pais} %FELIPE
+%    \include{design_detail}
+%    \include{tests}
+%    \include{dificulties}
+%    \include{future_work}
+%    \include{conclusion}
+    
+\backmatter
+    \nocite{*}
+    \bibliographystyle{plain}
+    \bibliography{references}
+    \appendix
+\end{document}

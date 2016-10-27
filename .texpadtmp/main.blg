@@ -6,12 +6,13 @@ A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: problem.aux
 A level-1 auxiliary file: goals.aux
 A level-1 auxiliary file: requeriment.aux
-A level-1 auxiliary file: Conclusion.aux
+A level-1 auxiliary file: casosdeuso.aux
+A level-1 auxiliary file: diagramaclases.aux
 The style file: plain.bst
 Database file #1: ../references.bib
 You've used 1 entry,
             2118 wiz_defined-function locations,
-            511 strings with 4333 characters,
+            512 strings with 4351 characters,
 and the built_in function-call counts, 337 in all, are:
 = -- 33
 > -- 13

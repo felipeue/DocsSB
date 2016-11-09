@@ -4,15 +4,24 @@ The top-level auxiliary file: /Users/feliperios/Documents/Build/Doc/Informe proy
 A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: problem.aux
+A level-1 auxiliary file: solution.aux
 A level-1 auxiliary file: goals.aux
+A level-1 auxiliary file: resource.aux
+A level-1 auxiliary file: results.aux
 A level-1 auxiliary file: requeriment.aux
+A level-1 auxiliary file: diaActividades.aux
 A level-1 auxiliary file: casosdeuso.aux
+A level-1 auxiliary file: conceptual.aux
 A level-1 auxiliary file: diagramaclases.aux
+A level-1 auxiliary file: cronograma.aux
+A level-1 auxiliary file: arq.aux
+A level-1 auxiliary file: vistas.aux
+A level-1 auxiliary file: conclusion.aux
 The style file: plain.bst
 Database file #1: ../references.bib
 You've used 1 entry,
             2118 wiz_defined-function locations,
-            512 strings with 4351 characters,
+            521 strings with 4463 characters,
 and the built_in function-call counts, 337 in all, are:
 = -- 33
 > -- 13

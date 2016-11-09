@@ -8,25 +8,50 @@
 \contentsline {subsection}{\numberline {2.1.3}Espacios compartidos}{2}{subsection.2.1.3}
 \contentsline {section}{\numberline {2.2}Seguridad}{3}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Conserjer\IeC {\'\i }a}{3}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Estacionamientos}{3}{subsection.2.2.2}
-\contentsline {chapter}{\numberline {3}Objetivos del proyecto}{4}{chapter.3}
-\contentsline {section}{\numberline {3.1}Objetivo General}{4}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Objetivos espec\IeC {\'\i }ficos}{4}{subsection.3.1.1}
-\contentsline {subsubsection}{Gastos comunes}{4}{subsubsection*.2}
-\contentsline {subsubsection}{Muro de mensajes}{4}{subsubsection*.3}
-\contentsline {subsubsection}{Espacios compartidos}{4}{subsubsection*.4}
-\contentsline {subsubsection}{Conserjer\IeC {\'\i }a}{5}{subsubsection*.5}
-\contentsline {subsubsection}{Estacionamientos}{5}{subsubsection*.6}
-\contentsline {subsection}{\numberline {3.1.2}Alcances del proyecto}{5}{subsection.3.1.2}
-\contentsline {chapter}{\numberline {4}Listado de requisitos}{6}{chapter.4}
-\contentsline {section}{\numberline {4.1}Requisitos funcionales}{6}{section.4.1}
-\contentsline {section}{\numberline {4.2}Requisitos no funcionales}{8}{section.4.2}
-\contentsline {chapter}{\numberline {5}Diagrama de casos de uso}{9}{chapter.5}
-\contentsline {section}{\numberline {5.1}Diagrama casos de uso}{9}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Diagrama caso de uso conserjer\IeC {\'\i }a}{9}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Diagrama caso de uso Pago de gastos comunes}{10}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Caso de uso panel de mensajes}{10}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Caso de uso espacios compartidos}{11}{subsection.5.1.4}
-\contentsline {chapter}{\numberline {6}Diagrama de clases}{12}{chapter.6}
-\contentsline {section}{\numberline {6.1}Diagrama de clases}{12}{section.6.1}
-\contentsline {chapter}{Bibliograf\'{\i }a}{13}{chapter*.7}
+\contentsline {chapter}{\numberline {3}Soluci\IeC {\'o}n inform\IeC {\'a}tica del problema}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}Modelamiento BPMN Comunicaci\IeC {\'o}n}{4}{section.3.1}
+\contentsline {section}{\numberline {3.2}Modelamiento BPMN Gastos comunes}{4}{section.3.2}
+\contentsline {section}{\numberline {3.3}Modelamiento BPMN Espacios compartidos}{4}{section.3.3}
+\contentsline {section}{\numberline {3.4}Modelamiento BPMN Conserjer\IeC {\'\i }a}{4}{section.3.4}
+\contentsline {chapter}{\numberline {4}Objetivos del proyecto}{5}{chapter.4}
+\contentsline {section}{\numberline {4.1}Objetivo General}{5}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Objetivos espec\IeC {\'\i }ficos}{5}{subsection.4.1.1}
+\contentsline {subsubsection}{Gastos comunes}{5}{subsubsection*.2}
+\contentsline {subsubsection}{Muro de mensajes}{5}{subsubsection*.3}
+\contentsline {subsubsection}{Espacios compartidos}{5}{subsubsection*.4}
+\contentsline {subsubsection}{Conserjer\IeC {\'\i }a}{6}{subsubsection*.5}
+\contentsline {subsection}{\numberline {4.1.2}Alcances del proyecto}{6}{subsection.4.1.2}
+\contentsline {chapter}{\numberline {5}Recursos requeridos}{7}{chapter.5}
+\contentsline {section}{\numberline {5.1}Tecnolog\IeC {\'\i }as}{7}{section.5.1}
+\contentsline {section}{\numberline {5.2}Hardware}{7}{section.5.2}
+\contentsline {section}{\numberline {5.3}Recursos Humanos}{7}{section.5.3}
+\contentsline {section}{\numberline {5.4}Entorno}{7}{section.5.4}
+\contentsline {chapter}{\numberline {6}Resultados esperados}{8}{chapter.6}
+\contentsline {section}{\numberline {6.1}Impactos del proyecto}{8}{section.6.1}
+\contentsline {chapter}{\numberline {7}Listado de requisitos}{9}{chapter.7}
+\contentsline {section}{\numberline {7.1}Requisitos funcionales}{9}{section.7.1}
+\contentsline {section}{\numberline {7.2}Requisitos no funcionales}{11}{section.7.2}
+\contentsline {chapter}{\numberline {8}Diagrama de actividades}{12}{chapter.8}
+\contentsline {chapter}{\numberline {9}Diagrama de casos de uso}{13}{chapter.9}
+\contentsline {section}{\numberline {9.1}Diagrama casos de uso}{13}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Diagrama caso de uso conserjer\IeC {\'\i }a}{13}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Diagrama caso de uso Pago de gastos comunes}{14}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.3}Caso de uso panel de mensajes}{14}{subsection.9.1.3}
+\contentsline {subsection}{\numberline {9.1.4}Caso de uso espacios compartidos}{15}{subsection.9.1.4}
+\contentsline {chapter}{\numberline {10}Modelo conceptual de la soluci\IeC {\'o}n}{16}{chapter.10}
+\contentsline {section}{\numberline {10.1}Diagrama del modelo conceptual.}{16}{section.10.1}
+\contentsline {chapter}{\numberline {11}Diagrama de clases}{17}{chapter.11}
+\contentsline {section}{\numberline {11.1}Diagrama de clases}{17}{section.11.1}
+\contentsline {chapter}{\numberline {12}Plan de trabajo}{18}{chapter.12}
+\contentsline {section}{\numberline {12.1}Hitos del proyecto}{18}{section.12.1}
+\contentsline {section}{\numberline {12.2}Cronograma}{18}{section.12.2}
+\contentsline {chapter}{\numberline {13}Dise\IeC {\~n}o de la arquitectura del sistema}{19}{chapter.13}
+\contentsline {section}{\numberline {13.1}Ventajas}{19}{section.13.1}
+\contentsline {section}{\numberline {13.2}Desventajas}{19}{section.13.2}
+\contentsline {chapter}{\numberline {14}Vistas}{20}{chapter.14}
+\contentsline {section}{\numberline {14.1}Conserjer\IeC {\'\i }a}{20}{section.14.1}
+\contentsline {section}{\numberline {14.2}Gastos comunes}{20}{section.14.2}
+\contentsline {section}{\numberline {14.3}Espacios compartidos}{20}{section.14.3}
+\contentsline {section}{\numberline {14.4}Muro de mensajes}{20}{section.14.4}
+\contentsline {chapter}{\numberline {15}Conclusi\IeC {\'o}n}{21}{chapter.15}
+\contentsline {chapter}{Bibliograf\'{\i }a}{22}{chapter*.6}

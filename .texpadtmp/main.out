@@ -7,20 +7,46 @@
 \BOOKMARK [2][-]{subsection.2.1.3}{Espacios compartidos}{section.2.1}% 7
 \BOOKMARK [1][-]{section.2.2}{Seguridad}{chapter.2}% 8
 \BOOKMARK [2][-]{subsection.2.2.1}{Conserjer\355a}{section.2.2}% 9
-\BOOKMARK [2][-]{subsection.2.2.2}{Estacionamientos}{section.2.2}% 10
-\BOOKMARK [0][-]{chapter.3}{Objetivos del proyecto}{}% 11
-\BOOKMARK [1][-]{section.3.1}{Objetivo General}{chapter.3}% 12
-\BOOKMARK [2][-]{subsection.3.1.1}{Objetivos espec\355ficos}{section.3.1}% 13
-\BOOKMARK [2][-]{subsection.3.1.2}{Alcances del proyecto}{section.3.1}% 14
-\BOOKMARK [0][-]{chapter.4}{Listado de requisitos}{}% 15
-\BOOKMARK [1][-]{section.4.1}{Requisitos funcionales}{chapter.4}% 16
-\BOOKMARK [1][-]{section.4.2}{Requisitos no funcionales}{chapter.4}% 17
-\BOOKMARK [0][-]{chapter.5}{Diagrama de casos de uso}{}% 18
-\BOOKMARK [1][-]{section.5.1}{Diagrama casos de uso}{chapter.5}% 19
-\BOOKMARK [2][-]{subsection.5.1.1}{Diagrama caso de uso conserjer\355a}{section.5.1}% 20
-\BOOKMARK [2][-]{subsection.5.1.2}{Diagrama caso de uso Pago de gastos comunes}{section.5.1}% 21
-\BOOKMARK [2][-]{subsection.5.1.3}{Caso de uso panel de mensajes}{section.5.1}% 22
-\BOOKMARK [2][-]{subsection.5.1.4}{Caso de uso espacios compartidos}{section.5.1}% 23
-\BOOKMARK [0][-]{chapter.6}{Diagrama de clases}{}% 24
-\BOOKMARK [1][-]{section.6.1}{Diagrama de clases}{chapter.6}% 25
-\BOOKMARK [0][-]{chapter*.7}{Bibliograf\355a}{}% 26
+\BOOKMARK [0][-]{chapter.3}{Soluci\363n inform\341tica del problema}{}% 10
+\BOOKMARK [1][-]{section.3.1}{Modelamiento BPMN Comunicaci\363n}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.2}{Modelamiento BPMN Gastos comunes}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.3}{Modelamiento BPMN Espacios compartidos}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.4}{Modelamiento BPMN Conserjer\355a}{chapter.3}% 14
+\BOOKMARK [0][-]{chapter.4}{Objetivos del proyecto}{}% 15
+\BOOKMARK [1][-]{section.4.1}{Objetivo General}{chapter.4}% 16
+\BOOKMARK [2][-]{subsection.4.1.1}{Objetivos espec\355ficos}{section.4.1}% 17
+\BOOKMARK [2][-]{subsection.4.1.2}{Alcances del proyecto}{section.4.1}% 18
+\BOOKMARK [0][-]{chapter.5}{Recursos requeridos}{}% 19
+\BOOKMARK [1][-]{section.5.1}{Tecnolog\355as}{chapter.5}% 20
+\BOOKMARK [1][-]{section.5.2}{Hardware}{chapter.5}% 21
+\BOOKMARK [1][-]{section.5.3}{Recursos Humanos}{chapter.5}% 22
+\BOOKMARK [1][-]{section.5.4}{Entorno}{chapter.5}% 23
+\BOOKMARK [0][-]{chapter.6}{Resultados esperados}{}% 24
+\BOOKMARK [1][-]{section.6.1}{Impactos del proyecto}{chapter.6}% 25
+\BOOKMARK [0][-]{chapter.7}{Listado de requisitos}{}% 26
+\BOOKMARK [1][-]{section.7.1}{Requisitos funcionales}{chapter.7}% 27
+\BOOKMARK [1][-]{section.7.2}{Requisitos no funcionales}{chapter.7}% 28
+\BOOKMARK [0][-]{chapter.8}{Diagrama de actividades}{}% 29
+\BOOKMARK [0][-]{chapter.9}{Diagrama de casos de uso}{}% 30
+\BOOKMARK [1][-]{section.9.1}{Diagrama casos de uso}{chapter.9}% 31
+\BOOKMARK [2][-]{subsection.9.1.1}{Diagrama caso de uso conserjer\355a}{section.9.1}% 32
+\BOOKMARK [2][-]{subsection.9.1.2}{Diagrama caso de uso Pago de gastos comunes}{section.9.1}% 33
+\BOOKMARK [2][-]{subsection.9.1.3}{Caso de uso panel de mensajes}{section.9.1}% 34
+\BOOKMARK [2][-]{subsection.9.1.4}{Caso de uso espacios compartidos}{section.9.1}% 35
+\BOOKMARK [0][-]{chapter.10}{Modelo conceptual de la soluci\363n}{}% 36
+\BOOKMARK [1][-]{section.10.1}{Diagrama del modelo conceptual.}{chapter.10}% 37
+\BOOKMARK [0][-]{chapter.11}{Diagrama de clases}{}% 38
+\BOOKMARK [1][-]{section.11.1}{Diagrama de clases}{chapter.11}% 39
+\BOOKMARK [0][-]{chapter.12}{Plan de trabajo}{}% 40
+\BOOKMARK [1][-]{section.12.1}{Hitos del proyecto}{chapter.12}% 41
+\BOOKMARK [1][-]{section.12.2}{Cronograma}{chapter.12}% 42
+\BOOKMARK [0][-]{chapter.13}{Dise\361o de la arquitectura del sistema}{}% 43
+\BOOKMARK [1][-]{section.13.1}{Ventajas}{chapter.13}% 44
+\BOOKMARK [1][-]{section.13.2}{Desventajas}{chapter.13}% 45
+\BOOKMARK [0][-]{chapter.14}{Vistas}{}% 46
+\BOOKMARK [1][-]{section.14.1}{Conserjer\355a}{chapter.14}% 47
+\BOOKMARK [1][-]{section.14.2}{Gastos comunes}{chapter.14}% 48
+\BOOKMARK [1][-]{section.14.3}{Espacios compartidos}{chapter.14}% 49
+\BOOKMARK [1][-]{section.14.4}{Muro de mensajes}{chapter.14}% 50
+\BOOKMARK [0][-]{chapter.15}{Conclusi\363n}{}% 51
+\BOOKMARK [0][-]{chapter*.6}{Bibliograf\355a}{}% 52
